@@ -1,5 +1,6 @@
-# Amazon
+# Angular Services with dynamic routes
 
+Proyecto educacional en el que hacemos uso de servicios para traer datos entre componentes con rutas dinámicas.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.4.
 
 ## Development server
